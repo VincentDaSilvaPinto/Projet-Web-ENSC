@@ -38,7 +38,7 @@
                     }
                 } ?>
                 <div class="alert alert-danger">
-                    <strong>Erreur !</strong> Utilisateur non reconnu
+                    <strong>Erreur !</strong> Utilisateur non reconnu(e)
                 </div>
                 <?php
             }
